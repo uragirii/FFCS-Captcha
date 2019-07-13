@@ -17,6 +17,7 @@ Then call `remove_noise` and then `detect_captcha` functions respectively to get
 ## Output:
 
 The program correcty guesses the captcha
+
 ![Output Captcha](Output_Captcha.png)
 
 
