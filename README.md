@@ -1,5 +1,5 @@
 # FFCS-Captcha
-The program tries to find out captcha value without using Machine Learning and only Image Processing. The academics website of VIT Chennai has a captcha that prevents bots from logging into the website. But the capctha is simple and can only be broken down by using Image Processing.
+The program tries to find out captcha value without using Machine Learning and only Image Processing. The [academics website of VIT Chennai](https://academicscc.vit.ac.in/student/stud_login.asp) has a captcha that prevents bots from logging into the website. But the capctha is simple and can only be broken down by using Image Processing.
 
 In this project, I use `OpenCV` and `PIL` to guess the captcha value. The program uses `OpenCV`'s `Template Matching` to break the captcha.
 
